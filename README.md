@@ -12,7 +12,7 @@
 6.	The steps are repeated till ‘$’ is reached.
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
-# PROGRAM
+## PROGRAM
 ```
 #include <stdio.h> 
 #include <ctype.h> 
@@ -88,7 +88,7 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/f87986d3-a4b2-49f4-bf60-f4d26bab5604)
 
 
